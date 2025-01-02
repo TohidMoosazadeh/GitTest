@@ -1,4 +1,4 @@
-I have added a note here. This time I am here in master branch
+I have added a note here. This time I am here.
 import logging
 import threading
 import time
